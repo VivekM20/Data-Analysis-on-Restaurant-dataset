@@ -6,4 +6,4 @@ Analysis on local Restaurant dataset which included Sales data, Items details an
 
 2] Association Analysis was done using apriori algorithm to find out items that are frequently ordered together.
 
-3] Time Series Forecasting on Sales data which included orders Dine-in orders as well as Online orders. The best fit was Simple Exponential Smoothing.
+3] Time Series Forecasting on Sales data which included Dine-in orders as well as Online orders. The best fit was Simple Exponential Smoothing.
